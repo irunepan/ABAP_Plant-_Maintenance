@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_PM_DATA</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>PM - Data</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CS_MESSAGE_ID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Identificación de los mensajes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_KOKRS_3400</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Sociedad CO</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_MOV_201</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clase de movimiento (gestión stocks)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_PTBO_ST</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Status Peticion Borrado</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_PTBO_ST2</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Status Inactivo</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_TCODE_MB1A</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Código transacción</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PM_DATA</CLSNAME>
+     <CMPNAME>CV_WAREHOUSE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Vista de maestro-mat para selección de almacén y lotes</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

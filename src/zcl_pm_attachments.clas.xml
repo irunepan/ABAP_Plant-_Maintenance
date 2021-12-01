@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>PM - Anexos</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>GENERATE_TMP_GUID</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Genera un nuevo guid</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>GET_GOS_ATTACHMENT_CONTENT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera el contenido de un anexo GOS</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>GET_GOS_ATTACHMENT_LIST</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera el lisatdo de anexos GOS de un BO</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>GET_GOS_ATTACHMENT_URL</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Publica un anexo del GOS en una URL</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>GET_MIMETYPE_FROM_EXTENSION</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera el mimetype a partir de la extension</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>MV_LANGU</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clave de idioma</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ATTACHMENTS</CLSNAME>
+     <CMPNAME>PUBLISH_ATTACHMENT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Pulbica un anexo en una URL</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

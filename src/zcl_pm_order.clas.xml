@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>PM - Ordenes de trabajo</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>CREATE_ORDER_NOTIFICATION</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Guarda la notificación de la orden</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>GET_ORDER_HEADER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera la cabecera de ordenes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>GET_ORDER_MATERIAL_DOCS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera los documentos de material de ordenes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>GET_ORDER_OPERATIONS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recupera operaciones de ordenes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>MC_MATERIAL_DOC_WAREHOUSE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clase de movimiento (gestión stocks)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>MC_MATERIAL_DOC_WAREHOUSE_C</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clase de movimiento (gestión stocks)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>MC_MOTIVO_NOTIF_OTHERS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Motivo de la desviación</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>MC_ORDER_TYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tipo de orden</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>MV_LANGU</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clave de idioma</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PM_ORDER</CLSNAME>
+     <CMPNAME>RELEASE_PENDING_ORDER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Libera la orden</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
